@@ -30,7 +30,6 @@ public class Main
         System.out.println("In a exhibit, I saw a " + noun1 + ".");
         System.out.println(noun1 + " was " + adjective2 + " and " + verb1 + ".");
         System.out.println("I was " + adjective3 + "!");
-        String[] arr = {"Benson", "Wes"};
 
         input.close();
     }
